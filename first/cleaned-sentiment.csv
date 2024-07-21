@@ -1,0 +1,108 @@
+RawQ1,RawQ2,RawQ3,Word1,Word2,Word3,Word4,Q2,Q3,IsEdited,ClassmatesInOwn,InstructorInOwn
+"analytical, communication , organisation, presentations",nervous,expect,analytical,communication,organisation,presentations,nervous,expect,NoEdits,0,0
+"Anticipation,excitement,satisfacton,good",excitement,excite,anticipation,excitement,satisfacton,good,excitement,excite,NoEdits,1,0
+"Anxious, excited, curious, challenging ",Nervous ,Excited ,anxious,excited,curious,challenging,nervous,excited,NoEdits,0,1
+"Anxious, nervous, hopeful, ready",Anxious,Hopeful,anxious,nervous,hopeful,ready,anxious,hopeful,NoEdits,1,1
+"anxious, optimistic, naive, unprepared",equal,optimistic,anxious,optimistic,naive,unprepared,equal,optimistic,NoEdits,0,1
+"challenging, nervous, fast-paced, stressful",excited,familiar,challenging,nervous,fast-paced,stressful,excited,familiar,NoEdits,0,0
+"chill, excited, tiresome, okay",chill,excited,chill,excited,tiresome,okay,chill,excited,NoEdits,1,1
+"completely, utterly, not, prepared",confident,breeze,completely,utterly,not,prepared,confident,breeze,NoEdits,0,0
+"Complicated,useful,uneasy,tired",Hard,Enjoy,complicated,useful,uneasy,tired,hard,enjoy,NoEdits,0,0
+confused ， curious， excited， nervous,curious,excited,confused,curious,excited,nervous,curious,excited,Edited,1,1
+"confused, open, interested, anxious ",confused ,prepared ,confused,open,interested,anxious,confused,prepared,NoEdits,1,0
+cool scary chill active,chill,chill,cool,scary,chill,active,chill,chill,Edited,1,1
+curious happy nervous afraid,great,enjoy,curious,happy,nervous,afraid,great,enjoy,Edited,0,0
+"curious, collaborative, writing, tough",nervous,excited,curious,collaborative,writing,tough,nervous,excited,NoEdits,0,0
+"Curious, confident, exploring, collaborative",Curious,Anticipating,curious,confident,exploring,collaborative,curious,anticipating,NoEdits,1,0
+"Curious, hopeful, nervous, ambitious",Nervous,Helpful,curious,hopeful,nervous,ambitious,nervous,helpful,NoEdits,1,0
+"Curious, interested, unsure, motivated",Interested,Enthusiastic,curious,interested,unsure,motivated,interested,enthusiastic,NoEdits,1,0
+"Curious, looking forward to, happy, excited",expected,happy,curious,lookingforwardto,happy,excited,expected,happy,NoEdits,0,1
+"curious, nervous, excited, fear",curious,happy,curious,nervous,excited,fear,curious,happy,NoEdits,1,0
+"curious, wary, excited, neutral",wary,excited,curious,wary,excited,neutral,wary,excited,NoEdits,1,1
+"curious, worried, meaningful, excited",unsure,prepared,curious,worried,meaningful,excited,unsure,prepared,NoEdits,0,0
+excited nervers happy confident,useful,in patience,excited,nervous,happy,confident,useful,inpatience,Edited,0,0
+excited nervous curiosity interested,interested,curiosity,excited,nervous,curiosity,interested,interested,curiosity,Edited,1,1
+"Excited, anxious, curious, intrigued",Excited,Excited,excited,anxious,curious,intrigued,excited,excited,NoEdits,1,1
+"Excited, apprehensive, ready, intrigued ",Unsure,Excited,excited,apprehensive,ready,intrigued,unsure,excited,NoEdits,0,1
+"excited, buzzing, nervous, confused",nervous,Good,excited,buzzing,nervous,confused,nervous,good,NoEdits,1,0
+"excited, chill, worried, fine",worried,excited,excited,chill,worried,fine,worried,excited,NoEdits,1,1
+"excited, confused, unknown, nervous ",excited ,expect ,excited,confused,unknown,nervous,excited,expect,NoEdits,1,0
+"Excited, Curious, Interested, Motivated",Interested,Excited,excited,curious,interested,motivated,interested,excited,NoEdits,1,1
+"Excited, curious, nervous, interested",Nervous ,Excited,excited,curious,nervous,interested,nervous,excited,NoEdits,1,1
+"Excited, curious, relaxed, interested ",Nervous ,Excited ,excited,curious,relaxed,interested,nervous,excited,NoEdits,0,1
+"excited, enthusiastic, nervous, ready",nervous,excited,excited,enthusiastic,nervous,ready,nervous,excited,NoEdits,1,1
+"Excited, interested, aprehensive, curious",Depressed,Scared,excited,interested,aprehensive,curious,depressed,scared,NoEdits,0,0
+"excited, nervous, anxious, curious",curious,excited,excited,nervous,anxious,curious,curious,excited,NoEdits,1,1
+"Excited, nervous, beneficial, keen",Nervous,Excited,excited,nervous,beneficial,keen,nervous,excited,NoEdits,1,1
+"Excited, nervous, Challenging, Difficult",Nervous,Excited,excited,nervous,challenging,difficult,nervous,excited,NoEdits,1,1
+"excited, nervous, curious, anxious",nervous,excited,excited,nervous,curious,anxious,nervous,excited,NoEdits,1,1
+"excited, nervous, curious, optimistic",excited,optimistic,excited,nervous,curious,optimistic,excited,optimistic,NoEdits,1,1
+"excited, nervous, curious, useful",difficult,useful,excited,nervous,curious,useful,difficult,useful,NoEdits,0,1
+"Excited, Nervous, Happy, Motivated",Excited,Excited,excited,nervous,happy,motivated,excited,excited,NoEdits,1,1
+"excited, nervous, prepared, passionate",nervous,excited,excited,nervous,prepared,passionate,nervous,excited,NoEdits,1,1
+"excited, nervous, ready, stressed",nervous ,excited,excited,nervous,ready,stressed,nervous,excited,NoEdits,1,1
+"excited, nervous, thankful, happy ",nervous ,excited ,excited,nervous,thankful,happy,nervous,excited,NoEdits,1,1
+"excited, uncertain, curious, cumulative ",unsure,curious,excited,uncertain,curious,cumulative,unsure,curious,NoEdits,0,1
+"Excited, useful, nervous, hardworking",hardworking,Calm,excited,useful,nervous,hardworking,hardworking,calm,NoEdits,1,0
+"Excited,nervous, enthusiastic,hopeful",Excited ,Enthusiastic ,excited,nervous,enthusiastic,hopeful,excited,enthusiastic,NoEdits,1,1
+"Excited,worried,ready,confused",Anxious,Prepared,excited,worried,ready,confused,anxious,prepared,NoEdits,0,0
+excited，extraordinary，nervous，excited,nervous,happy,excited,extraordinary,nervous,excited,nervous,happy,Edited,1,0
+"exciting, anxious, curious, thrilling",nervous ,enthusiastic ,exciting,anxious,curious,thrilling,nervous,enthusiastic,NoEdits,0,0
+"Exciting, expectation, collaboration, integration",integration,expectation,exciting,expectation,collaboration,integration,integration,expectation,NoEdits,1,1
+"expect, nervous, curious, engaged",Nervous,Exciting,expect,nervous,curious,engaged,nervous,exciting,NoEdits,1,0
+"Expectation, practice, team, exercise",earnest,expect,expectation,practice,team,exercise,earnest,expect,NoEdits,0,0
+hopeful pass relief excited,hopeful,evil,hopeful,pass,relief,excited,hopeful,evil,Edited,1,0
+"hopeful, nervous, unprepared, ambitious",ready,equipped,hopeful,nervous,unprepared,ambitious,ready,equipped,NoEdits,0,0
+"interested, nervous, excited, confused",Confused,Excited,interested,nervous,excited,confused,confused,excited,NoEdits,1,1
+"Interested, nervous, excited, different",Apprehensive,Excited,interested,nervous,excited,different,apprehensive,excited,NoEdits,0,1
+"Interested, Ready, Anticipation, Team",Unsure,Excited,interested,ready,anticipation,team,unsure,excited,NoEdits,0,0
+"interesting, cooperative, important, useful",anticipation,ready,interesting,cooperative,important,useful,anticipation,ready,NoEdits,0,0
+"Interesting,Confused,Curious,Anticipating",Anticipating,Anticipating,interesting,confused,curious,anticipating,anticipating,anticipating,NoEdits,1,1
+"intrigued, interested, excited, nervous",nervous,delighted,intrigued,interested,excited,nervous,nervous,delighted,NoEdits,1,0
+"multi task, hard, tedious?, challenge",challenge,happy,multitask,hard,tedious,challenge,challenge,happy,NoEdits,1,0
+"mysterious, exciting, worrisome, impressive ",anxious ,exalted ,mysterious,exciting,worrisome,impressive,anxious,exalted,NoEdits,0,0
+nervous excited afraid curious,nerivous,normally,nervous,excited,afraid,curious,nerivous,normally,Edited,0,0
+"Nervous, anticipated, worried, curious",Nervous,Knowledgeable,nervous,anticipated,worried,curious,nervous,knowledgeable,NoEdits,1,0
+"Nervous, Anxious, Clueless, Intrigued ",Nervous,Excited,nervous,anxious,clueless,intrigued,nervous,excited,NoEdits,1,0
+"nervous, apprehensive, excited, eager",nervous,confident,nervous,apprehensive,excited,eager,nervous,confident,NoEdits,1,0
+"Nervous, challenging, practical, complicate",nice,enthusiastic ,nervous,challenging,practical,complicate,nice,enthusiastic,NoEdits,0,0
+"nervous, curious, excited, stress ",nervous,excited,nervous,curious,excited,stress,nervous,excited,NoEdits,1,1
+"Nervous, curious, expectant, excited ",Curious,Expectant ,nervous,curious,expectant,excited,curious,expectant,NoEdits,1,1
+"nervous, difficulty, curious, excited",curious,excited,nervous,difficulty,curious,excited,curious,excited,NoEdits,1,1
+"Nervous, excited, challenging, fun",Nervous,Stress,nervous,excited,challenging,fun,nervous,stress,NoEdits,1,0
+"nervous, excited, hectic, heavyload",anxious,eager ,nervous,excited,hectic,heavyload,anxious,eager,NoEdits,0,0
+"Nervous, excited, interested, scared ",Nervous ,Excited ,nervous,excited,interested,scared,nervous,excited,NoEdits,1,1
+"nervous, excited, interesting, curious",Nervous,Excited,nervous,excited,interesting,curious,nervous,excited,NoEdits,1,1
+"Nervous, excited, passionate, enthusiastic ",Excited,Passionate,nervous,excited,passionate,enthusiastic,excited,passionate,NoEdits,1,1
+"Nervous, excited, scared, hopeful ",Nervous,Repeated,nervous,excited,scared,hopeful,nervous,repeated,NoEdits,1,0
+"Nervous, excited, worried, optimistic ",Excited ,Excited,nervous,excited,worried,optimistic,excited,excited,NoEdits,1,1
+"Nervous, excited, worried, resolved",nervous,prepared,nervous,excited,worried,resolved,nervous,prepared,NoEdits,1,0
+"Nervous, expectant, excited, interested",nervous,expectant,nervous,expectant,excited,interested,nervous,expectant,NoEdits,1,1
+"Nervous, expectant, excited, interested",nervous,expectant,nervous,expectant,excited,interested,nervous,expectant,NoEdits,1,1
+"Nervous, intimidated, interested, worried",Tired,Excited,nervous,intimidated,interested,worried,tired,excited,NoEdits,0,0
+"nervous, look forward, afraid, curious",nervous,excited,nervous,lookforward,afraid,curious,nervous,excited,NoEdits,1,0
+"Nervous, overwhelmed, interested, curious",Nervous,excited,nervous,overwhelmed,interested,curious,nervous,excited,NoEdits,1,0
+"nervous, uncertain, curious, anticipation",nervous,concerned,nervous,uncertain,curious,anticipation,nervous,concerned,NoEdits,1,0
+"nervous, unsure, stressed, interested ",nervous ,excited ,nervous,unsure,stressed,interested,nervous,excited,NoEdits,1,0
+"nervous, unsure, stressful, overwhelming",indifferent,excited,nervous,unsure,stressful,overwhelming,indifferent,excited,NoEdits,0,0
+"Nervous, worried, curious, excited",Excited?????,Excited???,nervous,worried,curious,excited,excited,excited,Edited,1,1
+"Nervous, worried, curious, stressed ",Worried,Curious ,nervous,worried,curious,stressed,worried,curious,NoEdits,1,1
+"Neutral, anticipation, excitement, motivated",Excited ,Eager,neutral,anticipation,excitement,motivated,excited,eager,NoEdits,0,0
+"new,nervous, curious,team",curious,excited,new,nervous,curious,team,curious,excited,NoEdits,1,0
+Practical; useful; different; fresh,useful,practical,practical,useful,different,fresh,useful,practical,Edited,1,1
+"Sad, Nervous, Tired, Anxious ",Nervous ,Happy,sad,nervous,tired,anxious,nervous,happy,NoEdits,1,0
+"Scared, Nervous, Uneasy, ​Concerned",Anxious,Determined,scared,nervous,uneasy,concerned,anxious,determined,NoEdits,0,0
+"Scared, worrying, nervous, curious",worrying,excited,scared,worrying,nervous,curious,worrying,excited,NoEdits,1,0
+"strain,curious,unknown,try",Curious?,Conventional,strain,curious,unknown,try,curious,conventional,Edited,1,0
+"Stressed, sigh, overwhelmed, overthinking ",Overwhelmed ,Excited ,stressed,sigh,overwhelmed,overthinking,overwhelmed,excited,NoEdits,1,0
+"Stresses, Nervous, Excited, Curious",Curious,Excited,stresses,nervous,excited,curious,curious,excited,NoEdits,1,1
+"uncertain,challengeable,curious,worried",uncertain,excited,uncertain,challengeable,curious,worried,uncertain,excited,NoEdits,1,0
+"unknown,expected,doubtful,hopeful",eager,good,unknown,expected,doubtful,hopeful,eager,good,NoEdits,0,0
+"unknown,worried,anxious,hard",difficult,cool,unknown,worried,anxious,hard,difficult,cool,NoEdits,0,0
+"Unsure, excited, confused, interested ",Nervous,Excited,unsure,excited,confused,interested,nervous,excited,NoEdits,0,1
+"unsure, interested, compelled, mandated",interested,excited,unsure,interested,compelled,mandated,interested,excited,NoEdits,1,0
+"Unsure, interested, motivated, hopeful",Anxious,Hopeful,unsure,interested,motivated,hopeful,anxious,hopeful,NoEdits,0,1
+"unsure, nervous, curious, motivated",nervous,interest,unsure,nervous,curious,motivated,nervous,interest,NoEdits,1,0
+"worried, concerned, dread, hope",excited,excited,worried,concerned,dread,hope,excited,excited,NoEdits,0,0
+"Worried, curious, anxious, lost",nervous,Motivated,worried,curious,anxious,lost,nervous,motivated,NoEdits,0,0
+"Worried, excited, nervous, new",Wondering ,Welcoming ,worried,excited,nervous,new,wondering,welcoming,NoEdits,0,0
